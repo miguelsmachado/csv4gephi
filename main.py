@@ -346,8 +346,8 @@ def main():
 
         st.header("")
         st.markdown("[![paypal](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=miguel.s.machado@hotmail.com)")
-        st.markdown("Ajuda a manter essa iniciativa **Open Soure** funcionando!")
-        st.markdown("Colabore com a comunidade")
+        st.markdown("Ajude a manter essa iniciativa **Open Soure** funcionando!")
+        st.markdown("Colabore com a comunidade!")
 
 
 if __name__ == '__main__':
